@@ -7,8 +7,9 @@ I am a passionate **Software Engineering Student at UET Taxila** (4th Semester).
 ### 🚀 About Me
 - 🎓 Pursuing **B.Sc. Software Engineering** from **UET Taxila**.
 - 📍 Based in **Dera Ghazi Khan, Pakistan**.
-🛠️ Currently learning and exploring Data Structures & Algorithms (DSA) and Machine Learning.
-- 🤝 Active member of **YPDC**, **GDSC**, and **SoftDesk** societies.
+- 📚 Currently focused on learning **Data Structures & Algorithms (DSA)** and **Machine Learning**.
+- 💻 Practicing daily to improve my problem-solving and coding efficiency.
+- 🤝 Member of **YPDC**, **GDSC**, and **SoftDesk** societies at UET Taxila.
 - 🐧 **Ubuntu (Linux)** user and open-source enthusiast.
 
 ---
