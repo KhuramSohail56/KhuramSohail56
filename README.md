@@ -27,6 +27,6 @@ I am a passionate **Software Engineering Student at UET Taxila** (4th Semester).
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [https://www.linkedin.com/in/khurram-sohail-34046832a/]
+- **LinkedIn:** [Khuram Sohail](https://www.linkedin.com/in/khurram-sohail-34046832a/)
 
 **⭐ If you like my work, feel free to follow me and star my repositories!**
